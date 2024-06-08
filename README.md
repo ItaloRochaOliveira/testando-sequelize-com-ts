@@ -1,0 +1,1 @@
+# testando-sequelize-com-ts
